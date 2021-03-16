@@ -8,5 +8,6 @@ homepage = "none"
 documentation = "none"
 repository = "https://github.com/rbalicki2/unitrust"
 readme = "README.md"
+description = "Unit testing in Rust, obviously"
 
 [dependencies]
